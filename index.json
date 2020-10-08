@@ -1,0 +1,51 @@
+[
+    {
+        "name": "shri",
+        "age": 24,
+        "address": [
+            {
+                "city": "loknayak"
+            },
+            {
+                "post": "delhii"
+            }
+        ]
+    },
+    null,
+    {
+        "name": "komalkumarii",
+        "age": 32,
+        "address": [
+            {
+                "city": "indralok nagar"
+            },
+            {
+                "post": "delhi"
+            }
+        ]
+    },
+    {
+        "name": "komal",
+        "age": 60,
+        "address": [
+            {
+                "city": "jankapuri"
+            },
+            {
+                "post": "uttam-nagar"
+            }
+        ]
+    },
+    {
+        "name": "santosh",
+        "age": 24,
+        "address": [
+            {
+                "city": "jahangirpuri"
+            },
+            {
+                "post": "azadpur"
+            }
+        ]
+    }
+]
